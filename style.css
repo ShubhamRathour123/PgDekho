@@ -1,0 +1,76 @@
+#top
+{
+    height: 150px;
+    width: 1355px;
+    background-color: black;
+}
+#col
+{
+    background-color: white;
+}
+#top1
+{
+    background-color: green;
+    height: 140px;
+    width: 231px;
+    color: yellow;
+    padding-left: 40px;
+}
+#nav
+{
+    background-color: purple;
+    height: 40px;
+    width: 231px;
+    color: yellow;
+    padding-left: 40px;
+}
+#nav:hover
+{
+    background-color: coral;
+}
+#srch
+{
+    height: 135px;
+    width: 1355px;
+    background-color: brown;
+    padding-top: 195px;
+}
+#search
+{
+    height: 50px;
+    width: 500px;
+    padding-left: 50px;
+    margin-left: 350px;
+}
+#srch1
+{
+    height: 60px;
+    width: 90px;
+    background-color: rgb(157, 165, 173);
+    color: white;
+}
+#srch1:hover
+{
+    background-color: rgb(89, 105, 122);
+}
+#card
+{
+    height: 451px;
+    width: 451px;
+    background-color: black;
+}
+#footer
+{
+    height: 400px;
+    width: 1355px;
+    background-color: purple;
+    color: aquamarine;
+    margin-top: 465px;
+}
+#ft
+{
+    height: 400px;
+    width: 451px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
